@@ -10,12 +10,13 @@ print('======================='); print('\n')
 primeiro = int(input('1º termo: '))
 razao = int(input('Razão: '))
 decimo = primeiro + (10 - 1) * razao
+
 print('\n')
 
 for c in range(primeiro, decimo + razao, razao):
     print('{}'.format(c),end=' - ')
+    
 print('FIM')
-
 print('\n')
 print('***'*32)
 
