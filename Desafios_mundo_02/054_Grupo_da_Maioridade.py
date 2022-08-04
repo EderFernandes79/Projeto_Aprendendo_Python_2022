@@ -4,6 +4,8 @@ print('***'*32); print('\n')
  No final, mostre quantas pessoas ainda não atingiram a maioridade e
  quantas já são maiores.'''
 
+
+
 from datetime import date
 
 print('==================')

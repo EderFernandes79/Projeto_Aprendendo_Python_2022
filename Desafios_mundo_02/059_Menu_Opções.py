@@ -10,6 +10,7 @@ from time import sleep
 [ 5 ] sair do programa
 Seu programa deverá realizar a operação solicitada em cada caso.'''
 
+
 print('==============')
 print('MENU DE OPÇÕES')
 print('=============='); print('\n')
